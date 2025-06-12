@@ -116,6 +116,6 @@
 
 🔗 Backend (Render): https://prescripto-backend-xg5x.onrender.com
 Lohith Muttamsetty
-📧 lmuttamsett@gmail.com
+📧 lmuttamsetty@gmail.com
 
 
