@@ -112,4 +112,10 @@
   - **Razorpay Integration**
 - Ensures a secure and smooth payment experience for users.
 
-## 🌐 Project Setup
+🔗 Frontend (Vercel): https://frontend-jfazx6y6e-muttamsettylohiths-projects.vercel.app
+
+🔗 Backend (Render): https://prescripto-backend-xg5x.onrender.com
+Lohith Muttamsetty
+📧 lmuttamsett@gmail.com
+
+
